@@ -1,4 +1,4 @@
-# 🛫 LogAnalyzer for Anomaly Detection in Autonomous Drones
+# LogAnalyzer for Anomaly Detection in Autonomous Drones
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)  
 [![Confidential](https://img.shields.io/badge/Confidential-Leonardo-red)](https://www.leonardo.com)
