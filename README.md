@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)  
 [![Confidential](https://img.shields.io/badge/Confidential-Leonardo-red)](https://www.leonardo.com)
+[![Status](https://img.shields.io/badge/Status-Under_Development-yellow)]()
 
 Hybrid multi-layer anomaly detection from PX4 telemetry data, combining rule-based expert systems, unsupervised outlier detection, and supervised learning capabilities.
 
